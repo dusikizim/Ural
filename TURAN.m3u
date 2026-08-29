@@ -63,7 +63,9 @@ http://ekobayi789.xyz:80/live/kamer.kasal/AtqQquB5up/453901.m3u8
 http://ekobayi789.xyz:80/live/kamer.kasal/AtqQquB5up/454131.m3u8 
 
 
-
+#EXTINF:0 type="stream" channelId="641", BEİN 4K SUP
+http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=10698&extension=ts
+#EXTINF:0 type="stream" channelId="641", BEİN 1 EKO SBT
 
 
 

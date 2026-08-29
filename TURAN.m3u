@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
+
+#EXTINF:0 type="stream" channelId="641", BEİN 2ATG 
+http://1g4qej7v.rostelekom.xyz/iptv/2ATGFW9WHHST2M4PQ48D2SNG/6781/.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN WLMTK
+http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6781/.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN WZ4V 
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN 1R54TX
+http://1g4qej7v.rostelekom.xyz/iptv/R54TX4G5GFNAUK/6781/.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN CEYDU1 
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
+
+
+#EXTINF:0 type="stream" channelId="641", BEİN BS1
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
+
+
+#EXTINF:0 type="stream" channelId="641", BEİN 1 3143
+http://31.43.191.142:8880//live/191703089055131/01703089055686/62815.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN 4K TUS
+http://tucson41906.wd.business-cdn-8k.com/live/09612fcedf94/59c01b2272/868658.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN HD TUS
+http://tucson41906.wd.business-cdn-8k.com/live/09612fcedf94/59c01b2272/868684.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN FAST
+http://fastcable.click:5050/live/rannbutler@yahoo.com/xcaHrMAnQZ/418552.ts
+
+#EXTINF:0 type="stream" channelId="641", BEİN HAZMAC
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=913459&extension=m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN HAZMAC
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=913458&extension=m3u8
+
+
+#EXTINF:0 type="stream" channelId="641", BEİN ARALIK 
+http://skytv4k.org:8080//live/ajA72trobH/x8oK6dpJNP/101858.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN WİPEKİM
+http://vipmax.site:8080/live/00:1A:79:B1:0D:DF/5fd87ba4/447237.m3u8
+
+
+#EXTINF:0 type="stream" channelId="641", BEİN WİPEKİM
+http://vipmax.site:8080/live/00:1A:79:B1:0D:DF/5fd87ba4/447238.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

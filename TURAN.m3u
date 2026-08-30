@@ -3,6 +3,8 @@
 
 #EXTINF:0 type="stream" channelId="641", BEİN ZİRVE
 https://deathless.pantonum1.workers.dev/zirve.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN ZİRVED
+https://deathless.pantonum1.workers.dev/zirve.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN patron
 https://deathless.pantonum1.workers.dev/patron.m3u8
 
@@ -31,8 +33,8 @@ http://tucson41906.wd.business-cdn-8k.com/live/09612fcedf94/59c01b2272/868658.m3
 #EXTINF:0 type="stream" channelId="641", BEİN HD TUS
 http://tucson41906.wd.business-cdn-8k.com/live/09612fcedf94/59c01b2272/868684.m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEİN FAST
-http://fastcable.click:5050/live/rannbutler@yahoo.com/xcaHrMAnQZ/418552.ts
+#EXTINF:0 type="stream" channelId="641", BEİN FAST 1
+http://fastcable.click:5050/live/rannbutler@yahoo.com/xcaHrMAnQZ/418552.m3u8
 
 #EXTINF:0 type="stream" channelId="641", BEİN HAZMAC
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=913459&extension=m3u8
@@ -64,7 +66,7 @@ http://ekobayi789.xyz:80/live/kamer.kasal/AtqQquB5up/454131.m3u8
 
 
 #EXTINF:0 type="stream" channelId="641", BEİN 4K SUP
-http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=10698&extension=ts
+http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=10698&extension=m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 1 EKO SBT
 
 

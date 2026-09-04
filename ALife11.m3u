@@ -214,6 +214,12 @@ http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/2c50d6dc-9669-4ff5-a04d-9fad60
 http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/e50821ba-9c39-40b1-b6b4-7657ff96b8a0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:GLFESPORTS HABER UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="TÜRK UHD",TR:GLFESPORTS HABER UHD
 
+http://v2.iptvspor.de:8080/live/ahmetozdamar/lt79af7y9/105874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN SPOR 1UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="TÜRK UHD",TR:GLFESPORTS HABER UHD
+
+http://v2.iptvspor.de:8080/live/ahmetozdamar/lt79af7y9/89026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN SPOR 1HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="TÜRK UHD",TR:GLFESPORTS HABER UHD
+
 http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/25b40afc-c406-400e-8492-5c26c4606789.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 UHD (FEED YAYIN)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TÜRK UHD",TR:EXXEN SPORT 1 UHD (FEED YAYIN)
 

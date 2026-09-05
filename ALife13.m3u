@@ -1,5 +1,40 @@
 #EXTM3U
 
+#EXTINF:0 type="stream" channelId="641", BEİN 1 2ATG 
+http://1g4qej7v.rostelekom.xyz/iptv/2ATGFW9WHHST2M4PQ48D2SNG/6781/.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN 1 WLMTK
+http://233d3515.kazmazpaz.ru/iptv/WLMTKVG728H5RP/6781/.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN 1 WZ4V 
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN 1R54TX
+http://1g4qej7v.rostelekom.xyz/iptv/R54TX4G5GFNAUK/6781/.m3u8
+
+
+#EXTINF:0 type="stream" channelId="641", BEİN CEYDU1 
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN BS1
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN BRZ
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN 1 3143
+http://31.43.191.142:8880//live/191703089055131/01703089055686/62815.m3u8
+
+
+#EXTINF:0 type="stream" channelId="641", BEİN ARALIK 
+http://skytv4k.org:8080//live/ajA72trobH/x8oK6dpJNP/101858.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN 4K KSMPİZ
+http://piipizle.site:80/live/halilabbas/19321932/89599.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN 1 KSMPİZ
+http://piipizle.site:80/live/halilabbas/19321932/89012.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN 1 MAY-204
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7e:bd:3b&stream=868684&extension=m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN 1 MAY-204
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7e:bd:3b&stream=401285
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEIN SPOR 1UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="TÜRK UHD", BEİN SPOR 1UHD
 http://v2.iptvspor.de:8080/live/ahmetozdamar/lt79af7y9/105874.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEIN SPOR 1UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="TÜRK UHD", BEİN SPOR 1UHD
